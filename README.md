@@ -54,6 +54,10 @@ Feature	Description
 - College Project? Yes. Boring? Nope.
 - Built With: Sleep deprivation, caffeine, and pure AI curiosity.
 
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors and colleagues for their guidance.
+
 ## 📄 License
 This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
 
