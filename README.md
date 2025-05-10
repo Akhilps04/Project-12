@@ -54,3 +54,7 @@ Feature	Description
 - College Project? Yes. Boring? Nope.
 - Built With: Sleep deprivation, caffeine, and pure AI curiosity.
 
+## 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
+
+
